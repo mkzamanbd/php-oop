@@ -1,7 +1,7 @@
 # PHP Programming Language
 
 ```cmd
-    composer dump-autoload -o
+composer dump-autoload -o
 ```
 
 ## Useful links
