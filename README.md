@@ -1,5 +1,9 @@
 # PHP Programming Language
 
+```cmd
+    composer dump-autoload -o
+```
+
 ## Useful links
 - PHP official website [https://www.php.net/](https://www.php.net/).
 - Download "PHP" from [https://www.php.net/downloads](https://www.php.net/downloads).
